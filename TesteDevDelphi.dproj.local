@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/07/10 16:25:40.000.736,=C:\Users\shark\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/10 18:52:02.000.904,=C:\Users\shark\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/07/10 20:30:59.000.372,D:\00 - Projetos\Teste\uModule.pas=C:\Users\shark\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/07/10 20:30:59.000.372,D:\00 - Projetos\Teste\uModule.dfm=C:\Users\shark\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2021/07/10 20:31:05.000.363,D:\00 - Projetos\Teste\uPrincipal.pas=C:\Users\shark\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/10 20:31:05.000.363,D:\00 - Projetos\Teste\uPrincipal.dfm=C:\Users\shark\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/07/10 20:31:12.000.217,D:\00 - Projetos\Teste\TesteDevDelphi.dproj=C:\Users\shark\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/07/10 23:42:26.000.303,=D:\00 - Projetos\Teste\Unit1.pas</Transaction>
+    <Transaction>2021/07/11 01:14:33.000.300,D:\00 - Projetos\Teste\uPedidoVenda.dfm=D:\00 - Projetos\Teste\Unit1.dfm</Transaction>
+    <Transaction>2021/07/11 01:14:33.000.300,D:\00 - Projetos\Teste\uPedidoVenda.pas=D:\00 - Projetos\Teste\Unit1.pas</Transaction>
+    <Transaction>2021/07/11 09:12:03.000.594,=D:\00 - Projetos\Teste\Unit1.pas</Transaction>
+    <Transaction>2021/07/11 09:12:11.000.745,D:\00 - Projetos\Teste\uGlobal.pas=D:\00 - Projetos\Teste\Unit1.pas</Transaction>
+    <Transaction>2021/07/11 10:06:04.000.661,=D:\00 - Projetos\Teste\Unit1.pas</Transaction>
+    <Transaction>2021/07/11 10:23:56.000.972,D:\00 - Projetos\Teste\uCadCliente.pas=D:\00 - Projetos\Teste\Unit1.pas</Transaction>
+    <Transaction>2021/07/11 10:23:56.000.972,D:\00 - Projetos\Teste\uCadCliente.dfm=D:\00 - Projetos\Teste\Unit1.dfm</Transaction>
+    <Transaction>2021/07/11 15:28:33.000.258,=D:\00 - Projetos\Teste\Unit1.pas</Transaction>
+    <Transaction>2021/07/11 15:30:00.000.354,D:\00 - Projetos\Teste\Unit1.dfm=D:\00 - Projetos\Teste\uConsCliente.dfm</Transaction>
+    <Transaction>2021/07/11 15:30:00.000.354,D:\00 - Projetos\Teste\Unit1.pas=D:\00 - Projetos\Teste\uConsCliente.pas</Transaction>
+    <Transaction>2021/07/11 17:03:49.000.983,=D:\00 - Projetos\Teste\Unit1.pas</Transaction>
+    <Transaction>2021/07/11 17:16:07.000.458,D:\00 - Projetos\Teste\Unit1.pas=D:\00 - Projetos\Teste\uConsPedidoVenda.pas</Transaction>
+    <Transaction>2021/07/11 17:16:07.000.458,D:\00 - Projetos\Teste\Unit1.dfm=D:\00 - Projetos\Teste\uConsPedidoVenda.dfm</Transaction>
+    <Transaction>2021/07/11 18:26:18.000.816,=D:\00 - Projetos\Teste\Unit1.pas</Transaction>
+    <Transaction>2021/07/11 18:27:51.000.093,D:\00 - Projetos\Teste\Unit1.dfm=D:\00 - Projetos\Teste\uConsProduto.dfm</Transaction>
+    <Transaction>2021/07/11 18:27:51.000.093,D:\00 - Projetos\Teste\Unit1.pas=D:\00 - Projetos\Teste\uConsProduto.pas</Transaction>
+  </Transactions>
+</BorlandProject>
